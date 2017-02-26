@@ -1,0 +1,4 @@
+To run program type command on terminal
+$ java -jar Q1.java
+To run program on windows plateform type command
+$ java -jar "Q1.java"
