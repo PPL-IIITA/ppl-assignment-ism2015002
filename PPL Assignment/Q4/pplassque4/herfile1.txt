@@ -1,0 +1,5 @@
+beautifulgirl1 6 18 54393 2
+beautifulgirl2 3 18 41293 3
+beautifulgirl3 9 12 82054 1
+beautifulgirl4 5 6 29072 2
+beautifulgirl5 1 11 93475 1
